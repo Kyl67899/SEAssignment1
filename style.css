@@ -1,0 +1,23 @@
+.container{
+    position: absolute;
+    text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
+
+.logo{
+    color: white;
+    opacity: 70%;
+    text-transform: capitalize;
+}
+
+.project{
+    /* background-color: grey; */
+}
+
+.subtitle, 
+.title{
+
+}
